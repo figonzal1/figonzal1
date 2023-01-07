@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe González</h1>
 <h3 align="center">A passionate mobile dev from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=figonzal1&label=Profile%20views&color=0e75b6&style=flat" alt="figonzal1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=figonzal1&label=Profile%20views&color=0e75b6&style=flat" alt="figonzal1" /> <a href="https://wakatime.com/@949e3bd2-46af-42a1-884a-a378fa47db1c"><img src="https://wakatime.com/badge/user/949e3bd2-46af-42a1-884a-a378fa47db1c.svg" alt="Total time coded since Mar 31 2021" /></a> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=figonzal1&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="figonzal1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=figonzal1&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="figonzal1" /></a> </p> 
 
 - 🔭 I’m currently working on [LastQuakeChile](https://github.com/figonzal1/LastQuakeChile)
 
