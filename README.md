@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LastQuakeChile](https://github.com/figonzal1/LastQuakeChile)
 
-- 🌱 I’m currently learning **Compose Views in Android**
+- 🌱 I’m currently learning **Compose Views in Android & Blockchain development**
 
 - 📝 I write articles on [https://figonzal.hashnode.dev/](https://figonzal.hashnode.dev/)
 
