@@ -33,5 +33,5 @@
 <div align="center">
     <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=figonzal1&show_icons=true&locale=en&count_private=true&theme=radical&include_all_commits=true" alt="figonzal1" />
     <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=figonzal1&show_icons=true&locale=en&layout=compact&theme=radical&hide=javascript,scss,typescript" alt="figonzal1" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=figonzal1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="figonzal1"/>
+    <img height="150em" src="https://streak-stats.demolab.com/?user=figonzal1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="figonzal1"/>
 </div>
