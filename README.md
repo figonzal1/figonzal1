@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=figonzal1&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="figonzal1" /></a> </p> 
 
-- 🔭 I’m currently working on [LastQuakeChile](https://github.com/figonzal1/LastQuakeChile)
+- 🔭 I’m currently working on Augmented Reality
 
-- 🌱 I’m currently learning **Compose Views in Android & Blockchain development**
+- 🌱 I’m currently learning **Unity, Wikitude SDK, Vuforia SDK, ArCore**
 
 - 📝 I write articles on [https://figonzal.hashnode.dev/](https://figonzal.hashnode.dev/)
 
